@@ -3,6 +3,7 @@
 > 轻量级、无 GPU 依赖的 Agent 自进化算法框架
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![CI](https://github.com/lanxinAIhub/agent-self-evolution/actions/workflows/ci.yml/badge.svg)](https://github.com/lanxinAIhub/agent-self-evolution/actions/workflows)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-green.svg)](https://www.python.org/)
 
 ## 🎯 项目概述
